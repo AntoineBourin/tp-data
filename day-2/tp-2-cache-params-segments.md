@@ -9,3 +9,9 @@
 - Afficher les catégories disponibles sur la page d’accueil
 
 - **Bonus** : permettre la sélection d’une catégorie, lorsqu’une est sélectionnée, afficher la liste des produits
+
+---
+
+### Ressources
+
+- [Fetch cache](https://nextjs.org/docs/app/api-reference/functions/fetch)

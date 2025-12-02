@@ -7,3 +7,10 @@
 - Afficher les images « thumbnail » de chaque produit dans la page d’accueil et une ou plusieurs images du produit dans sa page.
 
 - **Bonus** : ajouter et utiliser une nouvelle font google
+
+---
+
+### Ressources
+
+- [CSS](https://nextjs.org/docs/app/getting-started/css)
+- [Image Next.js](https://nextjs.org/docs/app/api-reference/components/image)

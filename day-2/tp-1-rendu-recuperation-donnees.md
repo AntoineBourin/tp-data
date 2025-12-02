@@ -7,3 +7,10 @@
 - **Bonus** : forcer le build statique des pages produits
 
 - **Bonus** : afficher le nom du premier produit de l’API dans le layout global
+
+---
+
+### Ressources
+
+- [Stratégies de rendu](https://nextjs.org/docs/app/guides/caching#rendering-strategies)
+- [Génération de pages statiques](https://nextjs.org/docs/app/api-reference/functions/generate-static-params)

@@ -10,3 +10,10 @@
 - **Bonus** : la page d’accueil peut prendre un paramètre `?query` qui, si précisé, **filtre les produits** par titre.
 
 - **Bonus** : le paramètre `query` peut être **modifié via un champ de recherche** dédié.
+
+---
+
+### Ressources
+
+- [Fichiers de routage](https://nextjs.org/docs/app/getting-started/project-structure#routing-files)
+- [notFound](https://nextjs.org/docs/app/api-reference/functions/not-found)
