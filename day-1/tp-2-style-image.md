@@ -10,7 +10,20 @@
 
 ---
 
-### Ressources
+### Resources
 
 - [CSS](https://nextjs.org/docs/app/getting-started/css)
 - [Image Next.js](https://nextjs.org/docs/app/api-reference/components/image)
+
+````
+images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "cdn.dummyjson.com",
+        pathname: "/product-images/**",
+      },
+    ],
+  },
+```
+````
