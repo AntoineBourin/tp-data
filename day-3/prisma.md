@@ -69,6 +69,7 @@ if (process.env.NODE_ENV !== "production") globalThis.prismaGlobal = prisma;
 ## Interaction avec BDD
 
 `prisma.order.create({ data: order })`
+
 `prisma.order.findMany({ where: { productId: id } })`
 
 ## S'assurer que le client est généré après l'installation des dépendances
