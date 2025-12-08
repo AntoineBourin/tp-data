@@ -15,3 +15,5 @@
 ### Ressources
 
 - [Fetch cache](https://nextjs.org/docs/app/api-reference/functions/fetch)
+- [revalidatePath](https://nextjs.org/docs/app/api-reference/functions/revalidatePath)
+- [Route handlers](https://nextjs.org/docs/app/getting-started/route-handlers)

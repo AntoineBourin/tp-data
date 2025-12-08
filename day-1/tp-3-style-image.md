@@ -14,8 +14,11 @@
 
 - [CSS](https://nextjs.org/docs/app/getting-started/css)
 - [Image Next.js](https://nextjs.org/docs/app/api-reference/components/image)
+- [next/font](https://nextjs.org/docs/app/api-reference/components/font)
 
-````
+next.config.ts
+
+```
 images: {
     remotePatterns: [
       {
@@ -26,4 +29,3 @@ images: {
     ],
   },
 ```
-````

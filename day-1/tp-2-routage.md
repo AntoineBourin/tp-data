@@ -17,3 +17,6 @@
 
 - [Fichiers de routage](https://nextjs.org/docs/app/getting-started/project-structure#routing-files)
 - [notFound](https://nextjs.org/docs/app/api-reference/functions/not-found)
+- [useRouter](https://nextjs.org/docs/app/api-reference/functions/use-router)
+- [useSearchParams](https://nextjs.org/docs/app/api-reference/functions/use-search-params)
+- [usePathname](https://nextjs.org/docs/app/api-reference/functions/use-pathname)

@@ -8,7 +8,7 @@
 
 ### Resources
 
-next.config.ts
+Logging requêtes - `next.config.ts`
 
 ```
 logging: {

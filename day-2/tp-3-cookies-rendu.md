@@ -9,3 +9,10 @@
 - Si le cookie n’est pas présent, renvoyer vers une page d’erreur
 
 - **Bonus** : Remplacer le bouton « Se connecter » par une page /login dédiée qui permet d’entrer un nom d’utilisateur et un mot de passe. Si lors de l’accès à la page `/login`, un cookie existe, renvoyer vers la page `/admin`.
+
+---
+
+## Resources
+
+- [Route handlers](https://nextjs.org/docs/app/getting-started/route-handlers)
+- [cookies](https://nextjs.org/docs/app/api-reference/functions/cookies)
